@@ -23,4 +23,4 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/universal-flight-simulator.git
+   git clone https://github.com/orkhan-baghirli/universal-flight-simulator.git
