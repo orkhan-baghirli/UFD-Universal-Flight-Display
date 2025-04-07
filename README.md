@@ -2,7 +2,7 @@
 
 ##  Overview
 **UFD (Universal Flight Display)** is a highly customizable and modular flight display developed for aviation enthusiasts, students, and professionals. It is designed to simulate Garmin G1000 s.
-[https://github.com/orkhan-baghirli/UFD-Universal-Flight-Display/blob/48fdca5a918dd8e0254fd5dffda244035f98ad31/1.png]
+!1(https://github.com/orkhan-baghirli/UFD-Universal-Flight-Display/blob/48fdca5a918dd8e0254fd5dffda244035f98ad31/1.png)
 
 ## ✈️ Features
 
