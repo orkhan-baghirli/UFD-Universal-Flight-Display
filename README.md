@@ -1,6 +1,6 @@
 # UFD-Universal-Flight-Display
 
-**UFD (Universal Flight Simulator)** is a highly customizable and modular flight display developed for aviation enthusiasts, students, and professionals. It is designed to simulate Garmin G1000 s.
+**UFD (Universal Flight Display)** is a highly customizable and modular flight display developed for aviation enthusiasts, students, and professionals. It is designed to simulate Garmin G1000 s.
 
 ## ✈️ Features
 
